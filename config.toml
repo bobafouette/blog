@@ -1,4 +1,4 @@
-baseURL = 'https://bobafouette.blocker.page'
+baseURL = 'https://bobafouette.blocker.page/'
 languageCode = 'en-us'
 title = 'crappy admin'
 theme = 'risotto'
